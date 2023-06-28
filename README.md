@@ -1,10 +1,16 @@
 # Manoj Engineering
 
-Welcome to the official repository for the Manoj Engineering website! This website is designed to provide information about Manoj Engineering, a company specializing in the design and manufacturing of high-quality press tools and metal parts. Here, you will find details about our services, expertise, and contact information.
-
-## Introduction
-
 The Manoj Engineering website is a basic HTML, CSS, and JavaScript project created to showcase the company's capabilities and expertise in the manufacturing industry. The website serves as a platform to present information about various services offered by Manoj Engineering, including sheet metal stamping, machining, plastic injection, surface treatment, tools & dies, and prototyping.
+
+## Technologies Used
+
+The Manoj Engineering website is built using the following technologies:
+
+- **HTML**: The structure and layout of the web pages are created using HTML.
+
+- **CSS**: CSS is used for styling the user interface and making the app visually appealing.
+
+- **JavaScript**: JavaScript is responsible for the functionality of the app, handling user interactions.
 
 ## Features
 
@@ -64,9 +70,10 @@ The Manoj Engineering website consists of the following pages:
 
 ## Contact
 
-For any inquiries or support regarding the Scheme Welfare Web Application, please contact:
+For any inquiries or support regarding the Manoj Engineering website, please contact:
 
-Your Name : ***John***
+***John***
+
 Email: ***janakiram.0695@gmail.com***
 
 Feel free to reach out with any questions, feedback, or suggestions. Your input is highly appreciated!
