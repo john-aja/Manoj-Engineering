@@ -12,7 +12,7 @@ The Manoj Engineering website is built using the following technologies:
 
 - **JavaScript**: JavaScript is responsible for the functionality of the app, handling user interactions.
 
-## Features
+## Features 
 
 - ***Informative Content:*** Gain insights into Manoj Engineering's services and specialties.
   
