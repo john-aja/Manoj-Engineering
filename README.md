@@ -1,6 +1,6 @@
 # Manoj Engineering
 
-![manoj-engineering](https://github.com/john-aja/Manoj-Engineering/assets/95049418/50f11341-2398-4cde-8eb4-92c4577084a6)
+![manoj-eng-mock](https://github.com/john-aja/Manoj-Engineering/assets/95049418/4f062dd4-8e30-402e-898b-2aeb0376fc58)
 
 The Manoj Engineering website is a basic HTML, CSS, and JavaScript project created to showcase the company's capabilities and expertise in the manufacturing industry. The website serves as a platform to present information about various services offered by Manoj Engineering, including sheet metal stamping, machining, plastic injection, surface treatment, tools & dies, and prototyping.
 
@@ -73,8 +73,6 @@ The Manoj Engineering website consists of the following pages:
 8. ***Contact:*** A page with a contact form to reach out to the company.
 
 ## Contact
-
-For any inquiries or support regarding the Manoj Engineering website, please contact:
 
 ***John***
 
